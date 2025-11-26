@@ -3,5 +3,5 @@ EarthEngine2.js
 image.png
 testing.ipynb
 Segmentation.ipynb
-./output
-./predictions/Methodology.docx
+output
+./Predictions/Methodology.docx
